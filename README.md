@@ -1,2 +1,2 @@
-# PreCourse-Henry
-Este es un repositorio de prueba del modul2 del precourse Henry
+rafael 
+este es un proyecto es una prueba de un repositorio y clonarlo a mi computadora 
